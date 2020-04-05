@@ -1,0 +1,14 @@
+{
+  "name": "valine-push",
+  "version": "1.0.0",
+  "description": "valine comment auto push based on bark",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "koa": "^2.11.0",
+    "leancloud-storage": "^4.5.2"
+  }
+}
