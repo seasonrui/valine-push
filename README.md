@@ -16,4 +16,4 @@ SERVER_URLS | LeanCloud REST API
 BARK_KEY    | Bark key
 
 
-![push.jpeg](./push.jpeg)
+![push.jpg](./push.jpg)
